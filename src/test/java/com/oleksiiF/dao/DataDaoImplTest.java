@@ -16,6 +16,7 @@ import static org.junit.Assert.*;
 /**
  * Created by OleksiiF on 20.04.2018.
  */
+/*
 @RunWith(MockitoJUnitRunner.class)
 public class DataDaoImplTest {
 
@@ -27,9 +28,9 @@ public class DataDaoImplTest {
 
 
     @Test
-    public void putToDB() throws Exception {
+    public void putToDBTest() throws Exception {
          when(conn.prepareStatement(any(String.class))).thenReturn(st);
 
     }
 
-}
+}*/
